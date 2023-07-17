@@ -1,5 +1,12 @@
+import './App.css';
+import SubComponent from './components/SubComponent';
+
+
 function App(){
-    return <h3>First component</h3>;
+    return (
+        <SubComponent />
+
+    );
 }
 
 
