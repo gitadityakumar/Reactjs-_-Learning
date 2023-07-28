@@ -6,7 +6,15 @@
     padding: 0.75rem;
     margin: 1rem 0;
     border-radius: 12px;
-    background-color: #754343;
+    background: hsla(283, 83%, 86%, 1);
+    
+        background: linear-gradient(90deg, hsla(283, 83%, 86%, 1) 0%, hsla(105, 11%, 85%, 1) 100%);
+    
+        background: -moz-linear-gradient(90deg, hsla(283, 83%, 86%, 1) 0%, hsla(105, 11%, 85%, 1) 100%);
+    
+        background: -webkit-linear-gradient(90deg, hsla(283, 83%, 86%, 1) 0%, hsla(105, 11%, 85%, 1) 100%);
+    
+        filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#E8BDF9", endColorstr="#D8DED6", GradientType=1);
 }
 
 .expense-item_description{
@@ -25,7 +33,7 @@
     font-size: 1rem;
     flex: 1;
     margin: 0 1rem;
-    color: white;
+    color: rgb(170, 70, 70);
 }
 
 .epense-item__price {
