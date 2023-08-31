@@ -21,5 +21,5 @@ A secure password generator built using React, Tailwind CSS, and Node.js.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/secure-password-generator.git
+   git clone https://github.com/gitadityakumar/Reactjs-_-Learning/tree/main/passwordgenerator
 
