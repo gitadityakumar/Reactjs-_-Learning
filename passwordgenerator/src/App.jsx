@@ -89,7 +89,7 @@ function App() {
         <li className="font-medium">Include uppercase, lowercase, numbers, and symbols.</li>
         <li className="font-medium">Use a secure random generator for truly random passwords.</li>
         <li className="font-medium">Do not use names, birthdays, or common words.</li>
-        <li className="font-medium">Avoid simple patterns like  &ldquo;123456&rdquo; or &ldquo;qwerty&rdquo;.</li>
+        <li className="font-medium">Avoid simple patterns like  &ldquo;123456&rdquo; or &ldquo;qwerty&rdquo;  .</li>
     </ol>
 </div>
 
